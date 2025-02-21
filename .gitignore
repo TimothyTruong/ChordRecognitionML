@@ -1,0 +1,4 @@
+**/__pycache__/
+data/*
+myenv/*
+backend/ml/chord_dataset.pt
